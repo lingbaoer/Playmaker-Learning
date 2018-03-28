@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playmaker Project_Unity 2017.3.0", "Playmaker Project_Unity 2017.3.0.csproj", "{2731F97F-25CB-013F-F899-2AEEEACB4CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playmaker Project_Unity 2017.3.0.Plugins", "Playmaker Project_Unity 2017.3.0.Plugins.csproj", "{1938AC90-59AE-18BB-D8E9-2B1340F9C4E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Playmaker Project_Unity 2017.3.0.Editor", "Playmaker Project_Unity 2017.3.0.Editor.csproj", "{36EA8AA4-2485-9D23-3760-0EB4CB429A33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2731F97F-25CB-013F-F899-2AEEEACB4CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2731F97F-25CB-013F-F899-2AEEEACB4CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2731F97F-25CB-013F-F899-2AEEEACB4CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2731F97F-25CB-013F-F899-2AEEEACB4CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1938AC90-59AE-18BB-D8E9-2B1340F9C4E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1938AC90-59AE-18BB-D8E9-2B1340F9C4E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1938AC90-59AE-18BB-D8E9-2B1340F9C4E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1938AC90-59AE-18BB-D8E9-2B1340F9C4E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36EA8AA4-2485-9D23-3760-0EB4CB429A33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36EA8AA4-2485-9D23-3760-0EB4CB429A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36EA8AA4-2485-9D23-3760-0EB4CB429A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36EA8AA4-2485-9D23-3760-0EB4CB429A33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Leaning Program/Scenes/08-pop up game.unity
+  isLoaded: 1
+  isActive: 1
